@@ -4,7 +4,7 @@ title:  "A New Try!"
 date:   2015-12-03 19:41:38
 author: 爸爸
 meta: wholala
-categories: [design, tool]
+categories: update
 ---
   
 <img src="/images/fulls/01.jpg" class="fit image">
