@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "first day trying to fix this website with HTML5"
+date:   2015-12-05 00:19:29
+categories: update
+---
+As the title indicates, it's my first day runnin' this website.  
+Feels well, tryin' to work out more, writing this blog or somethin'.  
+So, keep doing it and make some big thing!
+BTW, this is just another test.
+Test, test
